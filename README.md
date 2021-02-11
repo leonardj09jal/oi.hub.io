@@ -4,7 +4,7 @@
 
 ---
 
-| :pushpin: <sub>**Title**</sub> | :scroll: <sub>**Project**</sub> |  :date: <sub>**Date**</sub>  | :office: <sub>**Organization**</sub> | :computer: <sub>**Author**</sub> |
+| :pushpin: <sub>  **Title**</sub> | :scroll: <sub>  **Project**</sub> |  :date: <sub>  **Date**</sub>  | :office: <sub>  **Organization**</sub> | :computer: <sub>  **Author**</sub> |
 |---|---|---|---|---|
 |  [:link: uiHUB](https://github.com/michaelstepner/homebase-covid) | [:us: UI Claims](https://oui.doleta.gov/unemploy/uifactsheet.asp) | [:mantelpiece_clock:	 Feb, 8<sup>th</sup> 2021](https://www.daysoftheyear.com/days/2021/02/08/) | :high_brightness:	[Opportunity Insights](https://opportunityinsights.org/) | :email: [Jacob Leonard](mailto:jleonard@opportunityinsights.org) |
 
